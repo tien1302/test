@@ -1,0 +1,15 @@
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\bin\Debug\net5.0\prn211.Repo.deps.json
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\bin\Debug\net5.0\prn211.Repo.runtimeconfig.json
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\bin\Debug\net5.0\prn211.Repo.runtimeconfig.dev.json
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\bin\Debug\net5.0\prn211.Repo.dll
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\bin\Debug\net5.0\prn211.Repo.pdb
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.csproj.AssemblyReference.cache
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.AssemblyInfoInputs.cache
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.AssemblyInfo.cs
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.csproj.CoreCompileInputs.cache
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.dll
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\refint\prn211.Repo.dll
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.pdb
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\prn211.Repo.genruntimeconfig.cache
+D:\learn\CN5\PRN211\1test\prn211\prn211.Repo\obj\Debug\net5.0\ref\prn211.Repo.dll
